@@ -1,0 +1,97 @@
+/* Smaller than standard 960 (devices and browsers) */
+@media only screen and (max-width: 1500px) {
+    
+	.facebook1 {
+font-family: "arial";
+    font-size: 16px;
+    color: #fff;
+    background: #3b5998;
+    
+    text-align: center;
+    margin: auto;
+    border: 3px solid #6081c4;
+    padding: 10px;
+}
+a {
+    color: #4477aa;
+    text-decoration: none;
+}
+}
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+   .facebook1 {
+font-family: "arial";
+    font-size: 16px;
+    color: #fff;
+    background: #3b5998;
+    
+    text-align: center;
+    margin: auto;
+    border: 3px solid #6081c4;
+    padding: 10px;
+}
+a {
+    color: #4477aa;
+    text-decoration: none;
+}
+}
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {
+   .facebook1 {
+font-family: "arial";
+    font-size: 14px;
+    color: #fff;
+    background: #3b5998;
+   
+    text-align: center;
+    margin: auto;
+    border: 3px solid #6081c4;
+    padding: 10px;
+}
+a {
+    color: #4477aa;
+    text-decoration: none;
+}
+}
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+   .facebook1 {
+font-family: "arial";
+    font-size: 14px;
+    color: #fff;
+    background: #3b5998;
+    
+    text-align: center;
+    margin: auto;
+    border: 3px solid #6081c4;
+    padding: 10px;
+}
+a {
+    color: #4477aa;
+    text-decoration: none;
+}
+}
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) {
+    .facebook1 {
+font-family: "arial";
+    font-size: 9px;
+    color: #fff;
+    background: #3b5998;
+   
+    text-align: center;
+    margin: auto;
+    border: 3px solid #6081c4;
+    padding: 10px;
+}
+a {
+    color: #4477aa;
+    text-decoration: none;
+}
+}
+
+
